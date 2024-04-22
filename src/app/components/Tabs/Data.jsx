@@ -396,8 +396,8 @@ const Data = () => {
         ],
       pyq: [
         {
-          key: 1,
-          heading: "heading1",
+          key: 70,
+          heading: "",
           description: "des1",
 
           
