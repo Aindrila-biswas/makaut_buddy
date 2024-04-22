@@ -397,20 +397,31 @@ const Data = () => {
       pyq: [
         {
           key: 70,
-          heading: "",
-          description: "des1",
+          heading: "Atomic and Molecular Structure|CFT",
+          description: " a bonding model that explains many important properties of transition-metal complexes, including their colors, magnetism, structures, stability, and reactivity",
+          link: "https://youtu.be/H0lTUapkDo4?si=Jw5lnp1cZKtuMtPV",
 
           
         },
       ],
-      notes: [ 
+      pyq: [ 
         {
-          key: 1,
-          heading: "heading1",
-          description: "des1",
+          key: 71,
+          heading: "Atomic and Molecular Structure|Band theory of solid",
+          description: " electrons jump from valence band to conduction band even at ordinary temperature and if this happens then the solid conducts electricity",
+          link: "https://youtu.be/g82XpUsZsEI?si=QYKpcveSsf4GMSg-",
 
         },
       ],
+      pyq:[ 
+       {
+         key: 72,
+         heading: "Atomic and Molecular Structure|Band theory of metal",
+         description: "based on the valence band and the conduction band. It is also known as the band theory of solids or zone theory of solids",
+         link: "https://youtu.be/ow7HXwj4KIk?si=oHQmSH4wpacppWEu",
+
+       }
+      ]
     },
   ];
    
